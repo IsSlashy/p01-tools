@@ -1,0 +1,10 @@
+{
+  "name": "p01-tools",
+  "private": true,
+  "description": "P01 Privacy Tools — open-source ZK toolkit for Solana",
+  "license": "MIT",
+  "scripts": {
+    "test": "pnpm -r test",
+    "build": "pnpm -r build"
+  }
+}
