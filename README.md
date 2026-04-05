@@ -19,3 +19,9 @@ pnpm -r test          # run all test suites
 ## License
 
 MIT
+
+## Install
+
+```bash
+npm install @protocol-01/privacy-toolkit
+```
